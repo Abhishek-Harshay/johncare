@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "6509355321",
+    "project_id": "backup13thfeb-a0ssgv",
+    "storage_bucket": "backup13thfeb-a0ssgv.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6509355321:android:3ea92b477f1b9f253748e8",
+        "android_client_info": {
+          "package_name": "com.mycompany.reliefcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6509355321-h4ru5bmnl28145hna2qi44loddbqk3ka.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.reliefcare",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "6509355321-uko195kni5nup1brou10vi706o0bt596.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.reliefcare",
+            "certificate_hash": "702da52eabf6c2cfbb82b8a5816fc8b7a4fd497b"
+          }
+        },
+        {
+          "client_id": "6509355321-d2av56k08p9oi3nhppu349a68ik4vmd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ3_2xS-1oG1I6RtMqr9T3pUwypQ8dZXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6509355321-d2av56k08p9oi3nhppu349a68ik4vmd1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "6509355321-p56iafsaki7rhsnlfi1tt5mk8315notv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.reliefcare"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

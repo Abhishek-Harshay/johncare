@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>6509355321-p56iafsaki7rhsnlfi1tt5mk8315notv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.6509355321-p56iafsaki7rhsnlfi1tt5mk8315notv</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>6509355321-h4ru5bmnl28145hna2qi44loddbqk3ka.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBOfpnJ6uBTDYf7JMLnUOSR4g3xQGLX4fA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>6509355321</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.reliefcare</string>
+	<key>PROJECT_ID</key>
+	<string>backup13thfeb-a0ssgv</string>
+	<key>STORAGE_BUCKET</key>
+	<string>backup13thfeb-a0ssgv.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:6509355321:ios:3a10bac73164cfc03748e8</string>
+</dict>
+</plist>
